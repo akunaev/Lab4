@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopFor", "Lab4\LoopFor.csproj", "{F8B08DF1-CB84-4B06-8745-79EF0D9984CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopFor", "LoopFor\LoopFor.csproj", "{F8B08DF1-CB84-4B06-8745-79EF0D9984CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopWhile", "LoopWhile\LoopWhile.csproj", "{2E878F07-1678-4E02-94A1-5F8F19A83B72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopWhile", "LoopWhile\LoopWhile.csproj", "{2E878F07-1678-4E02-94A1-5F8F19A83B72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LooDo", "LooDo\LooDo.csproj", "{73E8BDDB-9BC0-4C76-BA82-5493CE7A4837}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopDo", "LoopDo\LoopDo.csproj", "{73E8BDDB-9BC0-4C76-BA82-5493CE7A4837}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
