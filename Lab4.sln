@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopFor", "Lab4\LoopFor.csproj", "{F8B08DF1-CB84-4B06-8745-79EF0D9984CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopWhile", "LoopWhile\LoopWhile.csproj", "{2E878F07-1678-4E02-94A1-5F8F19A83B72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LooDo", "LooDo\LooDo.csproj", "{73E8BDDB-9BC0-4C76-BA82-5493CE7A4837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8B08DF1-CB84-4B06-8745-79EF0D9984CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B08DF1-CB84-4B06-8745-79EF0D9984CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B08DF1-CB84-4B06-8745-79EF0D9984CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B08DF1-CB84-4B06-8745-79EF0D9984CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E878F07-1678-4E02-94A1-5F8F19A83B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E878F07-1678-4E02-94A1-5F8F19A83B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E878F07-1678-4E02-94A1-5F8F19A83B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E878F07-1678-4E02-94A1-5F8F19A83B72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73E8BDDB-9BC0-4C76-BA82-5493CE7A4837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E8BDDB-9BC0-4C76-BA82-5493CE7A4837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E8BDDB-9BC0-4C76-BA82-5493CE7A4837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E8BDDB-9BC0-4C76-BA82-5493CE7A4837}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0611866B-BAD2-4C3D-949C-D7BC28A39B7F}
+	EndGlobalSection
+EndGlobal
